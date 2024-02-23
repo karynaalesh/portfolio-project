@@ -26,10 +26,22 @@ p {
   padding: 160px 20px;
 }
 .btn-branding {
-  background-color: #feffa5;
+  background-color: #6d2e46;
   border-radius: 8px;
   padding: 15px 20px;
   font-size: 18px;
   line-height: 30px;
-  color: #171919;
+  color: white;
+}
+.description {
+  font-size: 16px;
+}
+.btn-yogurt {
+  border-radius: 8px;
+  padding: 15px 20px;
+  font-size: 18px;
+  line-height: 30px;
+  border: 1px solid;
+  border-color: #6d2e46;
+  color: #6d2e46;
 }

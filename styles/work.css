@@ -1,0 +1,31 @@
+.content-container {
+  padding: 160px 20px;
+}
+.content-container h1 {
+  font-size: 48px;
+}
+content-container h2 {
+  font-size: 18px;
+}
+.content {
+  margin: 30px;
+}
+h3 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 30px;
+  color: #171919;
+  margin: 20px 0;
+}
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+  margin-top: 10px;
+  font-size: 15px;
+  color: #171919;
+}
+img {
+  border-radius: 30px;
+}
